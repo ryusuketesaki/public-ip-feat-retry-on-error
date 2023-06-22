@@ -9,7 +9,8 @@ jobs:
     steps:
     - name: Public IP
       id: ip
-      uses: ryusuketesaki/public-ip-feat-retry-on-error@master
+      # uses: ryusuketesaki/public-ip-feat-retry-on-error@master
+      uses: ryusuketesaki/public-ip-feat-retry-on-error@v1
 
     - name: Print Public IP
       run: |

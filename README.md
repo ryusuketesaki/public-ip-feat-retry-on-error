@@ -1,5 +1,6 @@
 # Public IP
 
+
 > Queries the GitHub actions runner's public IP address using [ipify](https://www.ipify.org/)
 
 ### Motivation
